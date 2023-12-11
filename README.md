@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Linto N S</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1373266917/vector/sphere-made-up-of-points-and-lines-network-connection-structure-big-data-visualization-3d.jpg?s=612x612&w=0&k=20&c=4XzpABQpWM7D-DIxrSepkbCuWvn_oaBM1B8UuxIJt0c=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lintosunny&label=Profile%20views&color=0e75b6&style=flat" alt="lintosunny" /> </p>
 
