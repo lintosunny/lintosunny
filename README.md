@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/lintosunny/lintosunny/main/Github%20Social%20Preview.jpg)
+![image](Github-Social-Preview.jpg)
 
 
 # About Me:
