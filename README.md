@@ -1,4 +1,5 @@
-![image](https://github.com/lintosunny/lintosunny/blob/main/Github%20Social%20Preview.jpg)
+![image](https://raw.githubusercontent.com/lintosunny/lintosunny/main/Github%20Social%20Preview.jpg)
+
 
 # About Me:
 🦖I am currently working on ML Fraud Detection project<br>🐳I am looking to collaborate on Data Science Projects<br>🐧I am looking for help with MLOps<br>🐣I am currently learning Data Science
