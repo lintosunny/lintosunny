@@ -1,4 +1,4 @@
-![image](github-banner.png)
+![image](Github-Social-Preview.jpg)
 
 
 # About Me:
