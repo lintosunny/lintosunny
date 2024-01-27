@@ -8,7 +8,7 @@
 🤔 My interests are in Data Science, MLOps, and, Data Visualization.</br>
 💬 I'd like to chat about data analytics. Excited to learn and discuss more!</br>
 📫 Please email via lintosunny111@gmail.com to reach me.</br>
-👯 I’m looking to collaborate on any interesting projects to get practical experience
+👯 I’m looking to collaborate on any interesting projects to get practical experience</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lintons) 
 
 ### Languages:
